@@ -1,8 +1,8 @@
 ## Hi, I'm Mack👋
 
-✨ I am currently Senior Systems Engineers <br/>
+✨ I am currently a Senior Systems Engineers <br/>
 🌀 I love working on accessibility and adapative technology and sites <br/>
-🐾 Outside of tech I am a copetive BJJ athlete and working dog trainer <br/>
+🐾 Outside of tech I am a competive BJJ athlete and working dog trainer <br/>
 🔗 Check me out! [Instagram](https://www.instagram.com/_mackdaddi/) <br/>
 💫 Follow my current project : [Open Source Service Dog Phone](https://github.com/awolphantom/Dog-Phone.git) <br/>
 
